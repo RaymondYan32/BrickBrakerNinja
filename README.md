@@ -1,4 +1,4 @@
-# BrickBrakerNinja
+# BrickBreakerNinja
 
 1. Download as zip and extract to location of your choice.
 2. open folder and run "BrickBrickerNinja.jar"
